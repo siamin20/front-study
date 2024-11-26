@@ -1,6 +1,6 @@
 # Week 11 WIL
 
-[과제 배포링크](https://week10-gamma.vercel.app/)
+[과제 배포링크](https://week11-siamin20s-projects.vercel.app/)
 
 ![이미지](image.png)
 
@@ -50,4 +50,5 @@ function CommentList() {
 
 export default CommentList;
 ~~~
-CommentList는 
+CommentList는 api에서 fetch 받고, 이 중 10개 댓글만 띄운다.
+
